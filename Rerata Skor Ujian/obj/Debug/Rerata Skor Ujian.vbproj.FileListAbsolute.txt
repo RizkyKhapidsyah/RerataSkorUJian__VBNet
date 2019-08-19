@@ -1,0 +1,32 @@
+C:\Users\rismon\AppData\Local\Temporary Projects\Rerata Skor Ujian\bin\Debug\Rerata Skor Ujian.exe.config
+C:\Users\rismon\AppData\Local\Temporary Projects\Rerata Skor Ujian\bin\Debug\Rerata Skor Ujian.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\Rerata Skor Ujian\bin\Debug\Rerata Skor Ujian.pdb
+C:\Users\rismon\AppData\Local\Temporary Projects\Rerata Skor Ujian\bin\Debug\Rerata Skor Ujian.xml
+C:\Users\rismon\AppData\Local\Temporary Projects\Rerata Skor Ujian\obj\Debug\Rerata_Skor_Ujian.Form1.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\Rerata Skor Ujian\obj\Debug\Rerata_Skor_Ujian.Resources.resources
+C:\Users\rismon\AppData\Local\Temporary Projects\Rerata Skor Ujian\obj\Debug\Rerata Skor Ujian.vbproj.GenerateResource.Cache
+C:\Users\rismon\AppData\Local\Temporary Projects\Rerata Skor Ujian\obj\Debug\Rerata Skor Ujian.exe
+C:\Users\rismon\AppData\Local\Temporary Projects\Rerata Skor Ujian\obj\Debug\Rerata Skor Ujian.xml
+C:\Users\rismon\AppData\Local\Temporary Projects\Rerata Skor Ujian\obj\Debug\Rerata Skor Ujian.pdb
+E:\ANDI___Buku PEMROGRAMAN VB TEORI DAN IMPLEMENTASI\PROJEK VISUAL BASIC NET\Rerata Skor Ujian\Rerata Skor Ujian\bin\Debug\Rerata Skor Ujian.exe.config
+E:\ANDI___Buku PEMROGRAMAN VB TEORI DAN IMPLEMENTASI\PROJEK VISUAL BASIC NET\Rerata Skor Ujian\Rerata Skor Ujian\obj\Debug\Rerata Skor Ujian.exe
+E:\ANDI___Buku PEMROGRAMAN VB TEORI DAN IMPLEMENTASI\PROJEK VISUAL BASIC NET\Rerata Skor Ujian\Rerata Skor Ujian\obj\Debug\Rerata Skor Ujian.xml
+E:\ANDI___Buku PEMROGRAMAN VB TEORI DAN IMPLEMENTASI\PROJEK VISUAL BASIC NET\Rerata Skor Ujian\Rerata Skor Ujian\obj\Debug\Rerata Skor Ujian.pdb
+E:\ANDI___Buku PEMROGRAMAN VB TEORI DAN IMPLEMENTASI\PROJEK VISUAL BASIC NET\Rerata Skor Ujian\Rerata Skor Ujian\bin\Debug\Rerata Skor Ujian.exe
+E:\ANDI___Buku PEMROGRAMAN VB TEORI DAN IMPLEMENTASI\PROJEK VISUAL BASIC NET\Rerata Skor Ujian\Rerata Skor Ujian\bin\Debug\Rerata Skor Ujian.pdb
+E:\ANDI___Buku PEMROGRAMAN VB TEORI DAN IMPLEMENTASI\PROJEK VISUAL BASIC NET\Rerata Skor Ujian\Rerata Skor Ujian\bin\Debug\Rerata Skor Ujian.xml
+E:\ANDI___Buku PEMROGRAMAN VB TEORI DAN IMPLEMENTASI\PROJEK VISUAL BASIC NET\Rerata Skor Ujian\Rerata Skor Ujian\obj\Debug\Rerata_Skor_Ujian.Form1.resources
+E:\ANDI___Buku PEMROGRAMAN VB TEORI DAN IMPLEMENTASI\PROJEK VISUAL BASIC NET\Rerata Skor Ujian\Rerata Skor Ujian\obj\Debug\Rerata_Skor_Ujian.Resources.resources
+E:\ANDI___Buku PEMROGRAMAN VB TEORI DAN IMPLEMENTASI\PROJEK VISUAL BASIC NET\Rerata Skor Ujian\Rerata Skor Ujian\obj\Debug\Rerata Skor Ujian.vbproj.GenerateResource.Cache
+D:\Rizky Hafitsyah's Documents\#SC_CODE_PEMROGRAMAN\VISUAL BASIC 2015 (VB.NET 2015)\Rerata Skor Ujian\Rerata Skor Ujian\bin\Debug\Rerata Skor Ujian.exe.config
+D:\Rizky Hafitsyah's Documents\#SC_CODE_PEMROGRAMAN\VISUAL BASIC 2015 (VB.NET 2015)\Rerata Skor Ujian\Rerata Skor Ujian\bin\Debug\Rerata Skor Ujian.exe
+D:\Rizky Hafitsyah's Documents\#SC_CODE_PEMROGRAMAN\VISUAL BASIC 2015 (VB.NET 2015)\Rerata Skor Ujian\Rerata Skor Ujian\bin\Debug\Rerata Skor Ujian.pdb
+D:\Rizky Hafitsyah's Documents\#SC_CODE_PEMROGRAMAN\VISUAL BASIC 2015 (VB.NET 2015)\Rerata Skor Ujian\Rerata Skor Ujian\bin\Debug\Rerata Skor Ujian.xml
+D:\Rizky Hafitsyah's Documents\#SC_CODE_PEMROGRAMAN\VISUAL BASIC 2015 (VB.NET 2015)\Rerata Skor Ujian\Rerata Skor Ujian\obj\Debug\Rerata Skor Ujian.vbprojAssemblyReference.cache
+D:\Rizky Hafitsyah's Documents\#SC_CODE_PEMROGRAMAN\VISUAL BASIC 2015 (VB.NET 2015)\Rerata Skor Ujian\Rerata Skor Ujian\obj\Debug\Rerata_Skor_Ujian.FormUtama.resources
+D:\Rizky Hafitsyah's Documents\#SC_CODE_PEMROGRAMAN\VISUAL BASIC 2015 (VB.NET 2015)\Rerata Skor Ujian\Rerata Skor Ujian\obj\Debug\Rerata_Skor_Ujian.Resources.resources
+D:\Rizky Hafitsyah's Documents\#SC_CODE_PEMROGRAMAN\VISUAL BASIC 2015 (VB.NET 2015)\Rerata Skor Ujian\Rerata Skor Ujian\obj\Debug\Rerata Skor Ujian.vbproj.GenerateResource.cache
+D:\Rizky Hafitsyah's Documents\#SC_CODE_PEMROGRAMAN\VISUAL BASIC 2015 (VB.NET 2015)\Rerata Skor Ujian\Rerata Skor Ujian\obj\Debug\Rerata Skor Ujian.vbproj.CoreCompileInputs.cache
+D:\Rizky Hafitsyah's Documents\#SC_CODE_PEMROGRAMAN\VISUAL BASIC 2015 (VB.NET 2015)\Rerata Skor Ujian\Rerata Skor Ujian\obj\Debug\Rerata Skor Ujian.exe
+D:\Rizky Hafitsyah's Documents\#SC_CODE_PEMROGRAMAN\VISUAL BASIC 2015 (VB.NET 2015)\Rerata Skor Ujian\Rerata Skor Ujian\obj\Debug\Rerata Skor Ujian.xml
+D:\Rizky Hafitsyah's Documents\#SC_CODE_PEMROGRAMAN\VISUAL BASIC 2015 (VB.NET 2015)\Rerata Skor Ujian\Rerata Skor Ujian\obj\Debug\Rerata Skor Ujian.pdb
